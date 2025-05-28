@@ -21,7 +21,6 @@
   <a href="#-what-is-steamvault">What is SteamVault?</a> •
   <a href="#-features">Features</a> •
   <a href="#-getting-started">Getting Started</a> •
-  <a href="#-disclaimer">Disclaimer</a>
 </p>
 
 ---
