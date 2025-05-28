@@ -38,8 +38,6 @@ SteamVault is a PC client designed to provide users with access to a wide select
 
 ## 🚀 Getting Started
 
-Follow these steps to begin using SteamVault, as per information from `steamvault.app`:
-
 1.  **Download SteamVault:** Visit [**steamvault.app**](https://steamvault.app) to download the latest version of the SteamVault client.
 2.  **Install the Client**
 3.  **Launch SteamVault:** Open the application.
