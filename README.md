@@ -63,14 +63,6 @@ Follow these steps to begin using SteamVault, as per information from `steamvaul
 *   The developers of SteamVault provide this tool as described on `steamvault.app`. The use of this software is at the user's own discretion and risk.
 *   We encourage supporting game developers by purchasing games through official channels.
 
-*(This disclaimer is crucial. Tailor it based on any specific wording or legal notices present on steamvault.app if any.)*
-
-## 🤝 Contributing (Optional)
-
-*(If your project is open source and accepts contributions, add a section here. Otherwise, omit.)*
-Example:
-If you'd like to contribute to the development of SteamVault, please see our [CONTRIBUTING.md](YOUR_CONTRIBUTING_MD_LINK) or open an issue/pull request.
-
 ---
 
 <p align="center">
