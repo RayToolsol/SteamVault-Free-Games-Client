@@ -41,7 +41,7 @@ SteamVault is a PC client designed to provide users with access to a wide select
 *   🔍 **Simple Search & Discovery:** Easily find specific titles or browse to discover new games.
 *   🔽 **Direct Downloads:** Get game files directly to your system, ready for installation and play.
 *   🖥️ **User-Friendly Interface:** A straightforward client designed for easy navigation and game acquisition.
-    *(Assuming the website implies it's easy to use)*
+
 
 
 ## 🚀 Getting Started
