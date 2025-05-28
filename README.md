@@ -10,14 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LATEST_RELEASE_LINK_HERE_IF_APPLICABLE">
-    <img src="https://img.shields.io/github/v/release/YOUR_USERNAME/SteamVault?include_prereleases&label=version&color=brightgreen" alt="Latest Version">
-  </a>
-  <img src="https://img.shields.io/badge/platform-Windows-blue.svg" alt="Platform: Windows">
-  <!-- Add other platforms if supported -->
-</p>
-
-<p align="center">
   <a href="#-what-is-steamvault">What is SteamVault?</a> •
   <a href="#-features">Features</a> •
   <a href="#-getting-started">Getting Started</a> •
